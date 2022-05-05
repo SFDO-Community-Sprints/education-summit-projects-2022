@@ -2,7 +2,7 @@
 
 # Project Overview
 ## Vision & Goals
-EDA is an amazing data model, but it contains none data that is necessary for educational institutions to run their business. This project begins as a collection of international schools and their addresses which can be manually imported into a Salesforce org. Ultimately, it will become a data source to meet the needs for normalized data, common to so many educational institutions.
+EDA is an amazing data model, but it contains none of the data that is necessary for educational institutions to run their business. This project begins as a collection of international schools and their addresses which can be manually imported into a Salesforce org. Ultimately, it will become a data source to meet educational institutions' need for normalized data.
 
 ### Initial Goals
 * Start a list of schools/universities internationally that could be loaded into a Salesforce org.
