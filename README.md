@@ -15,7 +15,7 @@ Education
 ## Hub Group Link
 Forthcoming
 
-# Current Project Team & Accomplishments (Sprint 5/4-5/5/22)
+# Current Project Team & Accomplishments 
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
@@ -27,21 +27,22 @@ Arvind Ramesh        | Equality      | [arvindanramesh](https://github.com/arvin
 Raksha Sanganee      | Equality      | [rakshasanganee](https://github.com/rakshasanganee)    | 
 John Thomson         | Equality      | [jcthomsonjr](https://github.com/jcthomsonjr)    | 
 
-## Sprint (DATE)
+## Sprint (Sprint 5/4-5/5/22)
 
 ### Project Team Accomplishments
-Please replace with the tasks you team was able to accomplish during the Sprint event.
+First commit and visioning 🙌
 
 # Past Project Teams
 - [May 2022 Sprint](https://github.com/SFDO-Community-Sprints/education-summit-projects-2022/wiki/May-2022-Sprint-History-doc)
 
 # Project Resources and Documentation
-Documentation can be found in the repository [Wiki](https://github.com/SFDO-Community-Sprints/education-summit-projects-2022/wiki/) including the [Data Import instructions](https://github.com/SFDO-Community-Sprints/education-summit-projects-2022/wiki/Data-format-and-import-instructions)
+Documentation can be found in the repository [Wiki](https://github.com/SFDO-Community-Sprints/education-summit-projects-2022/wiki/) including the [Data Import instructions](https://github.com/SFDO-Community-Sprints/education-summit-projects-2022/wiki/Data-format-and-import-instructions). 
 
 # Future Contributions (AKA what were you unable to finish at the Sprint)
 - Work with the community to determine what data should be included, both for initial and future scope
 - Translate CSV into a Snowfakery recipe
 - Create a CumulusCI package that optionally installs data on EDA install
+- Process documentation for data updates (eg: getting updated data, noting date, etc)
 
 ## Far future contributions
 - Find ways to automate the process of enhancing or verifying the data (Google search)
