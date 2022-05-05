@@ -19,13 +19,13 @@ Forthcoming
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
-Kathleen Blount      | Equality      | [fakeusername](https://github.com/fakeusername)    | 
-Komal Chimanka       | Equality      | [fakeusername](https://github.com/fakeusername)    | 
-Kris Goncalves       | Equality      | [fakeusername](https://github.com/fakeusername)    | 
-Anivesh Muppa        | Equality      | [fakeusername](https://github.com/fakeusername)    | 
-Arvind Ramesh        | Equality      | [fakeusername](https://github.com/fakeusername)    | 
-Raksha Sanganee      | Equality      | [fakeusername](https://github.com/fakeusername)    | 
-John Thomson         | Equality      | [fakeusername](https://github.com/fakeusername)    | 
+Kathleen Blount      | Equality      | [ktblnt](https://github.com/ktblnt)    | 
+Komal Chimanka       | Equality      | [kchimanka](https://github.com/kchimanka)    | 
+Kris Goncalves       | Equality      | [kg345](https://github.com/kg345)    | 
+Anivesh Muppa        | Equality      | [tinkulu](https://github.com/tinkulu)    | 
+Arvind Ramesh        | Equality      | [arvindanramesh](https://github.com/arvindanramesh)    | 
+Raksha Sanganee      | Equality      | [rakshasanganee](https://github.com/rakshasanganee)    | 
+John Thomson         | Equality      | [jcthomsonjr](https://github.com/jcthomsonjr)    | 
 
 ## Sprint (DATE)
 
@@ -33,10 +33,10 @@ John Thomson         | Equality      | [fakeusername](https://github.com/fakeuse
 Please replace with the tasks you team was able to accomplish during the Sprint event.
 
 # Past Project Teams
-We recommend creating a Wiki page for past Sprint Event volunteers (per Sprint), and that Sprints goals, accomplishments, etc. Here's a good example: https://github.com/SFDO-Community-Sprints/DataGenerationToolkit. If you prefer to add this information to the readme file, here's a good example of formatting you can use: https://github.com/SFDO-Community-Sprints/Admin-Skills-and-Nonprofit-Salesforce-Teams
+- [May 2022 Sprint](https://github.com/SFDO-Community-Sprints/education-summit-projects-2022/wiki/May-2022-Sprint-History-doc)
 
 # Project Resources and Documentation
-Documentation can be found in the repository [wiki] (URL for wiki where docs are stored)
+Documentation can be found in the repository [Wiki](https://github.com/SFDO-Community-Sprints/education-summit-projects-2022/wiki/) including the [Data Import instructions](https://github.com/SFDO-Community-Sprints/education-summit-projects-2022/wiki/Data-format-and-import-instructions)
 
 # Future Contributions (AKA what were you unable to finish at the Sprint)
 - Work with the community to determine what data should be included, both for initial and future scope
